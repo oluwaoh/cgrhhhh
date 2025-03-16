@@ -11,7 +11,7 @@ My purpose is to create apps that people just love to use.
 &nbsp;
 <a href="https://www.linkedin.com/in/atrinh0/"><img src="images/linkedin.png" width="32"/></a>
 &nbsp;
-<a href="https://apple.co/3L9BesA"><img src="images/appstore.png" width="34"/></a>
+<a href="htt://apple.co/3L9BesA"><img src="images/appstore.png" width="34"/></
 
 # A Repeatable List
 
